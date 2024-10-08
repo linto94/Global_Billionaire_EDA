@@ -83,4 +83,8 @@ Major objective of the study is to Analyze for trends and patterns among the wor
      ![15](https://github.com/user-attachments/assets/0a932573-ed2e-4432-b3ff-b46eb7a38dba)
      
    * **Tax Rates and Billionaires**: Countries with lower tax rates tend to have a higher number of billionaires, possibly due to more favourable conditions for wealth accumulation.
+     ![16](https://github.com/user-attachments/assets/b6230c2e-6140-467d-ba79-729afedd1059)
+
    * **Wealth Differences by Tax Rate**: The difference in wealth between billionaires from low-tax countries ($4.2 trillion) and high-tax countries ($2.8 trillion) suggests that tax policies can significantly affect wealth retention and growth. It highlights how strategic tax planning can impact the overall economic landscape, potentially attracting or deterring high-net-worth individuals
+   
+    ![17](https://github.com/user-attachments/assets/d0f803fb-d53d-434f-ac61-f2d5741ac653)
