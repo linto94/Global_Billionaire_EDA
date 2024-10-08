@@ -36,4 +36,6 @@ Major objective of the study is to Analyze for trends and patterns among the wor
 
    * **Average Wealth by Gender**: As mentioned, women have a higher average wealth, driven by their smaller number, which skews the per-person wealth figures compared to male billionaires.
 
+     <img width="921" alt="9" src="https://github.com/user-attachments/assets/b9770501-1943-4b01-8150-82939f82caa0">
+
 
