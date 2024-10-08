@@ -9,6 +9,7 @@ Major objective of the study is to Analyze for trends and patterns among the wor
      ![1](https://github.com/user-attachments/assets/98d8cb18-6aa3-4f55-af63-b3469ee862ff)
      
    * **Regions with Most Billionaires**: The USA, UK, China, Germany, India, and other advanced economies top the list for billionaire count. This reflects how stable economic environments, robust infrastructure, and business-friendly policies can facilitate wealth accumulation. Countries like these often have more mature markets and access to global capital.
+     <img width="923" alt="2" src="https://github.com/user-attachments/assets/74825a02-3661-43da-a491-33df49c2539e">
      
      
 
