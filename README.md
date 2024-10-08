@@ -61,5 +61,8 @@ Major objective of the study is to Analyze for trends and patterns among the wor
       | False    | 70          |
       | True     | 68          |
 
-
+     | selfMade | Average_Worth |
+     |----------|---------------|
+     | False    | 2473000000    |
+     | True     | 4601000000    |
 
