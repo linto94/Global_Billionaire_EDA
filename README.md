@@ -76,6 +76,11 @@ Major objective of the study is to Analyze for trends and patterns among the wor
        | Top 10 Countries with Least Billionaires Count | 77.8            | 166.352 |  429,369,031,559    | 18.84       | 42.86    |  39,543,433   |
 
 5. **Economic Impact**
-   * **Economic Indicators and Wealth**: The analysis shows no significant relationship between GDP and billionaire wealth. Life expectancy has a very weak positive correlation with wealth, suggesting little to no impact.
+   * **Economic Indicators and Wealth**: The analysis shows no significant relationship between GDP and billionaire wealth. Life expectancy has a very weak positive correlation with wealth with a coefficien of 0.03, suggesting little to no impact.
+     
+     ![14](https://github.com/user-attachments/assets/ece1c759-cde4-44da-8aa0-82d55bc5f8a3)
+     
+     ![15](https://github.com/user-attachments/assets/0a932573-ed2e-4432-b3ff-b46eb7a38dba)
+     
    * **Tax Rates and Billionaires**: Countries with lower tax rates tend to have a higher number of billionaires, possibly due to more favourable conditions for wealth accumulation.
    * **Wealth Differences by Tax Rate**: The difference in wealth between billionaires from low-tax countries ($4.2 trillion) and high-tax countries ($2.8 trillion) suggests that tax policies can significantly affect wealth retention and growth. It highlights how strategic tax planning can impact the overall economic landscape, potentially attracting or deterring high-net-worth individuals
