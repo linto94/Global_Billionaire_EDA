@@ -17,6 +17,10 @@ Major objective of the study is to Analyze for trends and patterns among the wor
      
    * **Wealth Distribution by Industry and Region**: Total wealth aligns with the concentration of billionaires across industries and regions. Countries with more billionaires, like the USA, dominate wealth accumulation, leading with about $3.14 trillion. In contrast, Turkey has the lowest at $5.3 billion. For Industry, technology dominates with $ 1.3 trillion and the lowest construction & engineering at $33 billion.
 
+     <img width="913" alt="5" src="https://github.com/user-attachments/assets/ee8dd9db-aed6-4f9f-9c8c-fb3d8ebe2f21">
+      
+     <img width="941" alt="3" src="https://github.com/user-attachments/assets/ddcde86e-9787-45f1-9a2a-8ea9227c530f">
+
      
  
 
