@@ -21,7 +21,7 @@ Major objective of the study is to Analyze for trends and patterns among the wor
       
      <img width="941" alt="3" src="https://github.com/user-attachments/assets/ddcde86e-9787-45f1-9a2a-8ea9227c530f">
 
-  * **Emerging Industries**: Technology is a key player in creating new billionaires, especially among the younger self-made demographic. This highlights the tech sector’s role in driving economic shifts, as innovations continuously open avenues for wealth creation. The success of tech billionaires reflects a broader shift towards digital economies and the transformative power of tech-driven solutions in society.
+   * **Emerging Industries**: Technology is a key player in creating new billionaires, especially among the younger self-made demographic. This highlights the tech sector’s role in driving economic shifts, as innovations continuously open avenues for wealth creation. The success of tech billionaires reflects a broader shift towards digital economies and the transformative power of tech-driven solutions in society.
     
 
      
