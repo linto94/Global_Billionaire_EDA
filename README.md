@@ -30,5 +30,10 @@ Major objective of the study is to Analyze for trends and patterns among the wor
 2. **Wealth and Gender**
    * **Gender Representation**: Approximately 86% (407) of billionaires are male, with 14% (68) female. This imbalance affects wealth distribution, as men dominate most industries and regions. However, women tend to have higher average wealth due to their smaller representation, highlighting those fewer female billionaires are wealthier on average
 
+     ![7](https://github.com/user-attachments/assets/21eeec57-83a2-4fb8-a42e-d897b40940c6)
+     
+     <img width="911" alt="8" src="https://github.com/user-attachments/assets/8a0b3533-15ea-4ddf-96e7-d6debc77e78d">
+
+
 
 
