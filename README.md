@@ -66,3 +66,6 @@ Major objective of the study is to Analyze for trends and patterns among the wor
      | False    | 2473000000    |
      | True     | 4601000000    |
 
+  4. **Geographical**
+     * Countries with Highest Concentration: As noted, advanced economies like the USA and China dominate in billionaire numbers.
+     * Economic Factors: The top 10 countries with the most billionaires generally have higher GDP, life expectancy, tax rates, and population. However, countries with fewer billionaires tend to have higher CPI and tax revenue.
