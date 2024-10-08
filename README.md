@@ -7,7 +7,9 @@ Major objective of the study is to Analyze for trends and patterns among the wor
 1. **Wealth and Industry**
    * **Dominant Industries**: The leading industries among billionaires are Finance & Investment, Technology, and Fashion & Retail. This suggests that industries with high innovation potential (like technology) and those deeply tied to global markets (like finance) offer extensive opportunities for wealth creation. In contrast, sectors like Telecom, Construction, Sports, and Gambling are less represented, possibly due to their slower growth rates or higher regulatory barriers.
      ![1](https://github.com/user-attachments/assets/98d8cb18-6aa3-4f55-af63-b3469ee862ff)
-* **Regions with Most Billionaires**: The USA, UK, China, Germany, India, and other advanced economies top the list for billionaire count. This reflects how stable economic environments, robust infrastructure, and business-friendly policies can facilitate wealth accumulation. Countries like these often have more mature markets and access to global capital.
+     
+   * **Regions with Most Billionaires**: The USA, UK, China, Germany, India, and other advanced economies top the list for billionaire count. This reflects how stable economic environments, robust infrastructure, and business-friendly policies can facilitate wealth accumulation. Countries like these often have more mature markets and access to global capital.
+     
      
 
 
