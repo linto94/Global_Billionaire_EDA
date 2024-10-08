@@ -13,6 +13,8 @@ Major objective of the study is to Analyze for trends and patterns among the wor
      
      <img width="923" alt="2" src="https://github.com/user-attachments/assets/74825a02-3661-43da-a491-33df49c2539e">
      
+     ![2a](https://github.com/user-attachments/assets/0d6d94d0-8885-49ae-a1b2-45a1ed23ce2b)
+     
      
 
 
