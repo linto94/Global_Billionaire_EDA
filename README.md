@@ -56,7 +56,10 @@ Major objective of the study is to Analyze for trends and patterns among the wor
      ![13](https://github.com/user-attachments/assets/aac10e2c-a4bb-4a72-a0ce-2be8978ae8aa)
      
    * **Self-made Correlation with age, industry, and wealth**: Insight showed that self-made billionaires are younger and have more wealth than those with inherited wealth.
-
+      | selfMade | Average_Age |
+      |----------|-------------|
+      | False    | 70          |
+      | True     | 68          |
 
 
 
