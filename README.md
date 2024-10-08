@@ -38,4 +38,10 @@ Major objective of the study is to Analyze for trends and patterns among the wor
 
      <img width="921" alt="9" src="https://github.com/user-attachments/assets/b9770501-1943-4b01-8150-82939f82caa0">
 
+3. **Demographics**
+   * **Average Age by Industry**: Billionaires in technology are the youngest on average at 59 years, while those in sports are the oldest, averaging 78 years
+   * **Month of Birth**: January and September have the highest number of billionaire births, with February and May seeing the fewest. While this may not have a direct economic implication, some studies have hinted that birth timing might subtly influence personality traits, which in turn could impact entrepreneurial success.
+   * **Self-Made vs. Inherited Wealth**: 65% of billionaires are self-made, while 35% inherited their wealth. Self-made billionaires are typically younger than those who inherited their wealth.
+   * **Age and Wealth Correlation**: The correlation between age and wealth is weakly positive (0.025), suggesting no substantial relationship. Some older billionaires may be wealthier, but the overall trend is insignificant.
+   * **Self-made Correlation with age, industry, and wealth**: Insight showed that self-made billionaires are younger and have more wealth than those with inherited wealth.
 
