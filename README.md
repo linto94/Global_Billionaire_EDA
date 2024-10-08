@@ -43,7 +43,7 @@ Major objective of the study is to Analyze for trends and patterns among the wor
      
       <img width="950" alt="10" src="https://github.com/user-attachments/assets/c45ce284-e8e7-45ed-a6e2-692c06f494fd">
    
-   * **Month of Birth**: January and September have the highest number of billionaire births, with February and May seeing the fewest. While this may not have a direct economic implication, some studies have hinted that birth timing might subtly influence personality traits, which in turn could impact entrepreneurial success.
+   * **Month of Birth**: January and September have the highest number of billionaire births, with November and December seeing the fewest. While this may not have a direct economic implication, some studies have hinted that birth timing might subtly influence personality traits, which in turn could impact entrepreneurial success.
 
       ![11](https://github.com/user-attachments/assets/d33344c3-ee2e-4128-8efb-596d0d77ebb3)
      
